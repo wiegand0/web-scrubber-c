@@ -1,0 +1,10 @@
+//---------------------//WEB SCRUBBER//---------------------//
+Uses the libcurl library, statically linked in executable
+
+Written in VS 2019, 32 bit, windows 10
+
+Accepts command line arguments, asks for arguments if none provided upon execution
+
+All non-library code left in webScrubber.cpp for ease of viewing
+
+written by: Nicholas Wiegand
